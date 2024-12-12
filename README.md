@@ -1,7 +1,7 @@
 <h1 align="center">Hotel Booking and Management 🖥️</h1>
 <p align="center">Web application for room reservation and hotel room management<p>
 
-![image](/img/screen_home.png)
+![image](/img/screen_home.jpg)
 
 <h3 align="center">🛠️ In development</h3>
 
@@ -26,14 +26,14 @@
 Username: admin
 Password: admin123
 ```
-![image](/img/screen_login.png)
+![image](/img/screen_login.jpg)
 
 
 ## Showcase
-![image](/img/show1.png)
-![image](/img/show2.png)
-![image](/img/show3.png)
-![image](/img/show4.png)
-![image](/img/show5.png)
-![image](/img/show6.png)
+![image](/img/show1.jpg)
+![image](/img/show2.jpg)
+![image](/img/show3.jpg)
+![image](/img/show4.jpg)
+![image](/img/show5.jpg)
+![image](/img/show6.jpg)
 
